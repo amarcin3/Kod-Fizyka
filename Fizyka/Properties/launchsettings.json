@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Fizyka (Unpackaged)": {
+        "commandName": "Project"
+      },
+      "Fizyka (Package)": {
+        "commandName": "MsixPackage"
+      }
+    }
+}
