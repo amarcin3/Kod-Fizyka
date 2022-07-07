@@ -7,7 +7,7 @@
     mc:Ignorable="d">
 
     <Grid x:Name="ContentArea">
-        <TextBlock>
+        <TextBlock Style="{ThemeResource BodyTextBlockStyle}">
             <TextBlock.Inlines>
 
             </TextBlock.Inlines>
