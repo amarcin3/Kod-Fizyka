@@ -9,7 +9,7 @@
     <Grid x:Name="ContentArea">
         <TextBlock Style="{ThemeResource BodyTextBlockStyle}">
             <TextBlock.Inlines>
-
+                <Run Text="Jeśli ciało porusza się ruchem jednostajnym prostoliniowym od punktu A do punktu B, to droga tego ciała jest równa długości odcinka AB, ponieważ torem ruchu jest linia prosta.&#x0a;&#x0a;W ruchu jednostajnym prostoliniowym drogę przebytą przez ciało obliczamy, za pomocą wzoru: &#x0a;"/><Run FontWeight="Bold" Text="s = v * t"/><Run Text="&#x0a;&#x0a;Gdzie:&#x0a;s[m] = droga przebyta przez ciało&#x0a;v[m/s] = Wartość prędkości ciała&#x0a;t[s] = Czas ruchu ciała"/>
             </TextBlock.Inlines>
         </TextBlock>
     </Grid>

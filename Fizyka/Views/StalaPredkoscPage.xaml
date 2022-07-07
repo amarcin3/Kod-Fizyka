@@ -9,7 +9,7 @@
     <Grid x:Name="ContentArea">
         <TextBlock Style="{ThemeResource BodyTextBlockStyle}">
             <TextBlock.Inlines>
-
+                <Run Text="Prędkość jest wielkością wektorową. Każdy wektor ma: kierunek, zwrot oraz długość (wartość). Jeśli ciało porusza się ruchem jednostajnym prostoliniowym, to każde odstępstwo od toru prostoliniowego spowoduje zmianę kierunku wektora prędkości. Powstały wektor nie jest więc tym samym wektorem co dotychczasowy, mimo że wartość (długość) obu wektorów nie uległa zmianie. Ruch jednostajny prostoliniowy możemy opisać najprościej za pomocą zapisu wektorowego: "/><Run FontWeight="Bold" Text="v = const"/>
             </TextBlock.Inlines>
         </TextBlock>
     </Grid>

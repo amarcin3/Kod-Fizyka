@@ -9,7 +9,7 @@
     <Grid x:Name="ContentArea">
         <TextBlock Style="{ThemeResource BodyTextBlockStyle}">
             <TextBlock.Inlines>
-
+                <Run Text="Podczas zmiany prędkości mamy do czynienia z dwiema wartościami: początkową i końcową. Przykładowo: samochód jedzie z prędkością 20 m/s, kierowca przyspiesza i samochód osiąga prędkość 30 m/s. Zmiana prędkości zawsze będzie obliczana jako różnica wartości końcowej i początkowej. W tym przypadku zmiana prędkości = 30 m/s – 20 m/s = 10 m/s. Zmiana jest dodatnia, co oznacza, że wartość prędkości wzrosła, czyli przyspieszenie ciała jest dodatnie.&#x0a;&#x0a;Przyspieszenie - Wielkość fizyczna opisująca zmianę prędkości w jednostce czasu.&#x0a;Przyspieszenie = zmiana wartości prędkości / przedział czasu&#x0a;a = ∆v / ∆t"/>
             </TextBlock.Inlines>
         </TextBlock>
     </Grid>

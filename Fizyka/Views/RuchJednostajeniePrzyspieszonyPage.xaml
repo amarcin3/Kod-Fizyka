@@ -9,7 +9,7 @@
     <Grid x:Name="ContentArea">
         <TextBlock Style="{ThemeResource BodyTextBlockStyle}">
             <TextBlock.Inlines>
-
+                <Run Text="Gdy torem ruchu ciała jest linia prosta, a przyrost prędkości jest jednakowy w każdej sekundzie tego ruchu, to ruch taki nazywamy ruchem jednostajnie przyspieszonym prostoliniowym."/>
             </TextBlock.Inlines>
         </TextBlock>
     </Grid>

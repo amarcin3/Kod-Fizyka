@@ -9,7 +9,7 @@
     <Grid x:Name="ContentArea">
         <TextBlock Style="{ThemeResource BodyTextBlockStyle}">
             <TextBlock.Inlines>
-
+                <Run Text="W ruchu jednostajnym wartość prędkości jest stała i w związku z tym prędkość chwilowa i średnia są sobie równe. Gdy wartość prędkości się zmienia, obie wielkości będą się od siebie różniły. Prędkość chwilowa będzie np. coraz większa – im większe przyspieszenie, tym większa prędkość."/>
             </TextBlock.Inlines>
         </TextBlock>
     </Grid>

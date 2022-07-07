@@ -9,7 +9,7 @@
     <Grid x:Name="ContentArea">
         <TextBlock Style="{ThemeResource BodyTextBlockStyle}">
             <TextBlock.Inlines>
-
+                <Run Text="Obserwując ruch danego ciała, zauważamy zmianę jego położenia zachodzącą wraz z upływem czasu. Linia, jaką zakreśla poruszające się ciało, nazywana jest "/><Run FontWeight="Bold" Text="Torem ruchu"/><Run Text=".&#x0a;&#x0a;Długość fragmentu toru w fizyce nazywana jest drogą i oznaczana jest małą literą s"/><Run Text="Ruch, którego torem jest linia krzywa to ruch krzywoliniowy.&#x0a;&#x0a;Ruch ciała, którego torem jest linia prosta, nazywamy ruchem prostoliniowym. Takim ruchem porusza się np. lecący samolot."/>
             </TextBlock.Inlines>
         </TextBlock>
     </Grid>

@@ -9,7 +9,7 @@
     <Grid x:Name="ContentArea">
         <TextBlock Style="{ThemeResource BodyTextBlockStyle}">
             <TextBlock.Inlines>
-
+                <Run Text="Znasz już pojęcie ruchu jednostajnego prostoliniowego. Prędkość w tym ruchu jest stała. W życiu codziennym masz jednak częściej do czynienia z sytuacją, w której zmianie ulegają zarówno wartość samej prędkości, jak i kierunek ruchu ciała. Nasze rozważania podczas tej lekcji ograniczymy do analizy ruchów, w których torem jest linia prosta, a prędkość będzie się zmieniać – rosnąć lub maleć.&#x0a;&#x0a;Ruch zmienny - Ruch w którym dochodzi do zmian prędkości&#x0a;Ruch przyspieszony - Ruch w trakcie którego prędkość ciała rośnie&#x0a;Ruch opóźniony - Ruch w trakcie którego prędkość ciała maleje"/>
             </TextBlock.Inlines>
         </TextBlock>
     </Grid>

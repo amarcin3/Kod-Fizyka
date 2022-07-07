@@ -9,7 +9,7 @@
     <Grid x:Name="ContentArea">
         <TextBlock Style="{ThemeResource BodyTextBlockStyle}">
             <TextBlock.Inlines>
-
+                <Run Text="Szczególnym przypadkiem ruchu zmiennego jest ruch przyspieszony. Cechą charakterystyczną tego ruchu jest wzrost prędkości poruszającego się ciała w pewnym przedziale czasu. Wówczas torem ruchu mogą być zarówno linia prosta, jak i krzywa."/>
             </TextBlock.Inlines>
         </TextBlock>
     </Grid>
