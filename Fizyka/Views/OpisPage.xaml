@@ -7,6 +7,10 @@
     mc:Ignorable="d">
 
     <Grid x:Name="ContentArea">
-        
+        <TextBlock>
+            <TextBlock.Inlines>
+                
+            </TextBlock.Inlines>
+        </TextBlock>
     </Grid>
 </Page>
