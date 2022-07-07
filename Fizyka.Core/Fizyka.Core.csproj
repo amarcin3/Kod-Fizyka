@@ -5,6 +5,7 @@
     <RootNamespace>Fizyka.Core</RootNamespace>
     <Platforms>x86;x64;arm64;AnyCPU</Platforms>
     <LangVersion>latest</LangVersion>
+    <Authors>Marcin Abrahamczyk</Authors>
   </PropertyGroup>
 
   <ItemGroup>
