@@ -9,7 +9,7 @@
     <Grid x:Name="ContentArea">
         <TextBlock Style="{ThemeResource BodyTextBlockStyle}">
             <TextBlock.Inlines>
-
+                <Run Text="Aby opisać ruch, należy powiązać go z układem odniesienia i wybrać "/><Run FontWeight="Bold" Text=" układ współrzędnych"/><Run Text=". W trakcie dalszej nauki będziesz korzystać głównie z "/><Run FontWeight="Bold" Text="prostokątnego układu współrzędnych"/><Run Text=".&#x0a;&#x0a;Układ współrzędnych prostokątnych na płaszczyźnie ma wyraźnie zaznaczony początek, który jest punktem przecięcia dwóch osi liczbowych. Każda z osi musi być opisana i zakończona strzałką."/>
             </TextBlock.Inlines>
         </TextBlock>
     </Grid>
